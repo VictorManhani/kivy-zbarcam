@@ -16,7 +16,7 @@ pip3 install pyzbar
 
 2º Verifique se abre o programa no seu pc com o comando no terminal 
 dentro da pasta do projeto:
-````
+```
 python3 main.py
 
 # ou
