@@ -10,7 +10,7 @@ deixei eles disponíveis na pasta do projeto.
 
 1º instalei as dependencias necessarias pelo terminal:
 ```
-pip3 install python-opencv
+pip3 install opencv-python
 pip3 install pyzbar
 ```
 
